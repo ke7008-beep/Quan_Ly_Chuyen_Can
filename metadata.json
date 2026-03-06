@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Điểm danh Thông minh",
+  "description": "Module quản lý điểm danh dành cho Giáo viên, Phụ huynh, Học sinh và Ban giám hiệu.",
+  "requestFramePermissions": []
+}
